@@ -1,0 +1,258 @@
+[
+  {
+    "field": "name_cn",
+    "claim": "二化螟",
+    "source_id": "SRC_0002",
+    "evidence": "原文标题: '二化螟'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "name_latin",
+    "claim": "Chilo suppressalis (Walker)",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '二化螟[Chilo suppressalis(Walker)]'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "name_en",
+    "claim": "Rice Stem Borer / Asiatic Rice Borer",
+    "source_id": "SRC_0002",
+    "evidence": "国际通用英文名",
+    "confidence": "medium",
+    "notes": "原文中未直接给出英文名，为通用英文名"
+  },
+  {
+    "field": "aliases",
+    "claim": null,
+    "source_id": "SRC_0002",
+    "evidence": "",
+    "confidence": "high",
+    "notes": "Not in source."
+  },
+  {
+    "field": "taxonomy_order",
+    "claim": "鳞翅目 (Lepidoptera)",
+    "source_id": "SRC_0002",
+    "evidence": "二化螟为螟蛾科昆虫，属于鳞翅目",
+    "confidence": "medium",
+    "notes": "原文未明确写出目名，为分类学常识补充"
+  },
+  {
+    "field": "taxonomy_family",
+    "claim": "螟蛾科 (Pyralidae) / 草螟科 (Crambidae)",
+    "source_id": "SRC_0002",
+    "evidence": "二化螟传统归类于螟蛾科，现代分类归草螟科",
+    "confidence": "medium",
+    "notes": "原文未明确写出科名，为分类学常识补充"
+  },
+  {
+    "field": "taxonomy_genus",
+    "claim": "Chilo",
+    "source_id": "SRC_0002",
+    "evidence": "学名 Chilo suppressalis",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "taxonomy_species",
+    "claim": "suppressalis",
+    "source_id": "SRC_0002",
+    "evidence": "学名 Chilo suppressalis",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "major_hosts",
+    "claim": "水稻（主要寄主）",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '二化螟[Chilo suppressalis(Walker)]为浙江省水稻的主要害虫'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "occasional_hosts",
+    "claim": "茭白、芦苇、春花植株（麦类等）",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '在芦苇、茭白中的发生最早，其次为稻桩中的，再次为春花植株中的，稻草中的发生最迟'",
+    "confidence": "high",
+    "notes": "越冬代虫源来自多种寄主"
+  },
+  {
+    "field": "damaging_stages",
+    "claim": "以幼虫为害",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '分蘖期受害可造成枯鞘、枯心苗，穗期受害造成虫伤株' — 均为幼虫为害症状",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "damaged_parts",
+    "claim": "水稻茎秆（造成枯鞘、枯心苗、虫伤株）",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '分蘖期受害可造成枯鞘、枯心苗，穗期受害造成虫伤株'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "typical_symptoms",
+    "claim": "分蘖期：幼虫蛀入茎秆造成枯鞘和枯心苗；穗期：幼虫蛀茎造成虫伤株，影响灌浆结实。一般年份减产3%-5%，严重时减产3成以上。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '分蘖期受害可造成枯鞘、枯心苗，穗期受害造成虫伤株，一般年份减产3%～5%,严重时减产3成以上'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "morphology_egg",
+    "claim": null,
+    "source_id": "SRC_0002",
+    "evidence": "",
+    "confidence": "high",
+    "notes": "Not in source. 原文未描述二化螟卵的形态。"
+  },
+  {
+    "field": "morphology_larva",
+    "claim": "幼虫蛀茎为害。越冬幼虫在稻桩、稻草、春花植株、芦苇、茭白等中越冬。",
+    "source_id": "SRC_0002",
+    "evidence": "原文讨论幼虫越冬和为害，但未描述具体形态特征",
+    "confidence": "low",
+    "notes": "原文未提供幼虫形态描述，仅有生物学信息"
+  },
+  {
+    "field": "morphology_pupa",
+    "claim": "化蛹起点温度11℃。越冬代幼虫化蛹羽化期：芦苇茭白中最早，其次稻桩，再次春花植株，稻草中最迟。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '二化螟化蛹的起点温度在11℃...越冬代幼虫化蛹羽化期在芦苇、茭白中的发生最早，其次为稻桩中的，再次为春花植株中的，稻草中的发生最迟'",
+    "confidence": "medium",
+    "notes": "有化蛹生物学信息但无蛹的形态描述"
+  },
+  {
+    "field": "morphology_adult",
+    "claim": "成虫羽化起点温度14℃。一般温度与虫态历期呈负相关。不同虫源成虫发生期有显著差异。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '一般14℃开始羽化...一般温度与虫态历期呈负相关'",
+    "confidence": "medium",
+    "notes": "原文未提供成虫形态特征描述"
+  },
+  {
+    "field": "diagnostic_features",
+    "claim": null,
+    "source_id": "SRC_0002",
+    "evidence": "",
+    "confidence": "high",
+    "notes": "Not in source. 原文未描述诊断识别特征。"
+  },
+  {
+    "field": "similar_pests",
+    "claim": null,
+    "source_id": "SRC_0002",
+    "evidence": "",
+    "confidence": "high",
+    "notes": "Not in source. 原文未提及其他螟虫种类（如大螟、三化螟）的比较。"
+  },
+  {
+    "field": "occurrence_regions",
+    "claim": "浙江省为主要参考区域。浙南、浙东地区春耕灌水早，绿肥田稻桩内二化螟虫绝大部分可被淘汰。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '二化螟...为浙江省水稻的主要害虫...在浙南、浙东地区春耕灌水的早，绿肥田稻桩内二化螟虫绝大部分可被淘汰'",
+    "confidence": "high",
+    "notes": "国内其他稻区分布需补充"
+  },
+  {
+    "field": "occurrence_seasons",
+    "claim": "越冬代成虫在早春羽化迁入早稻田；一代幼虫在早稻田为害；二代幼虫在早稻和单季晚稻中发育；发生期受早春3-4月温度影响。夏收夏种期间天气晴热可减少稻草内二代虫蛹转化为三代的数量。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '越冬代二化螟发生早迟，决定早春三四月份温度的高低...夏收夏种期间天气晴热，早稻草能及时晒干，可减少早稻草内二代虫蛹转化为三代的数量'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "occurrence_generations",
+    "claim": "浙江省一年发生3-4代",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '二化螟在浙江省一年发生三、四代'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "occurrence_overwintering",
+    "claim": "以幼虫越冬。越冬场所：稻桩、稻草、春花植株（麦类等）、芦苇、茭白等。不同越冬场所的幼虫化蛹羽化期差异显著：芦苇茭白最早，其次稻桩，再次春花植株，稻草中最迟。越冬代稻草内虫源羽化迟，本田早稻已转青分蘖，有利于蚁螟侵入和发育。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '越冬代幼虫化蛹羽化期在芦苇、茭白中的发生最早，其次为稻桩中的，再次为春花植株中的，稻草中的发生最迟...越冬代稻草内虫源羽化迟，本田早稻已转青分蘖，有利于二化螟蚁螟的侵入和发育，成活率高'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "risk_level",
+    "claim": "浙江省水稻主要害虫。随着杂交水稻面积扩大有利于发生，曾一度猖獗。一般年份减产3%-5%，严重时减产3成以上。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '二化螟[Chilo suppressalis(Walker)]为浙江省水稻的主要害虫...一般年份减产3%～5%,严重时减产3成以上'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "quarantine_status",
+    "claim": null,
+    "source_id": "SRC_0002",
+    "evidence": "",
+    "confidence": "high",
+    "notes": "Not in source."
+  },
+  {
+    "field": "natural_enemies",
+    "claim": "高温干旱年份天敌多，寄生率高，二化螟发生为害相对减轻。药剂防治面积过大、用药过多会破坏生态平衡，减少天敌对二化螟的抑制作用。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '气候也影响二化螟天敌。高温干旱；天敌多，寄生率高，二化螟发生为害也相对减轻...药剂防治面积过大，用药过多，能破坏生态平衡，减少天敌对二化螟的抑制作用'",
+    "confidence": "medium",
+    "notes": "原文未列出具体天敌种类名称"
+  },
+  {
+    "field": "climate_factors",
+    "claim": "早春3-4月温度决定越冬代发生早迟：旬平均温度11℃以上到来的早迟决定化蛹早迟；化蛹后遇低温延长蛹期推迟羽化。气温23-26℃、相对湿度80%-90%有利螟卵孵化；20-30℃、湿度70%以上有利幼虫发育。夏季高温（水温超30℃）对二化螟发育不利。晚稻收获前多雨使稻草中越冬幼虫比例增大。台风暴雨大田淹水能大量淹死螟蛹。",
+    "source_id": "SRC_0002",
+    "evidence": "原文气候部分",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "cultivation_factors",
+    "claim": "春花面积扩大增加越冬虫源田；迟熟早稻扩大提高二代二化螟有效率；早稻插秧季节提早有利于二化螟侵入和成活。籼稻比粳稻受害重，杂交水稻（秆粗叶阔、叶色嫩绿）卵块密度高、为害重。稀植卵块密度高于密植，大苗高于小苗。成熟越迟产卵量越多。科学用肥和灌溉能减少为害。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '春花面积的扩大，增加了越冬虫源田...迟熟早稻的扩大，提高了二代二化螟的有效率...一般籼稻比粳稻受害重；特别是杂交水稻，秆粗叶阔，叶色嫩绿，卵块密度高，为害重'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "control_monitoring",
+    "claim": "调查冬前和冬后虫口密度；在各发生世代化蛹始盛期前后调查；调查不同类型田的幼虫和蛹的密度。取样方法按稻作、品种或螟害轻重划分类型田。",
+    "source_id": "SRC_0002",
+    "evidence": "原文测报办法中的虫口密度调查",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "control_cultural",
+    "claim": "春耕灌水可淘汰绿肥田稻桩内二化螟虫（浙南浙东地区效果显著）；齐泥割稻减少稻桩中越冬虫量；及时晒干早稻草减少稻草内虫蛹转化；合理施肥灌溉，科学用水。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '在浙南、浙东地区春耕灌水的早，绿肥田稻桩内二化螟虫绝大部分可被淘汰...科学用肥和灌溉能减少二化螟的为害...夏收夏种期间天气晴热，早稻草能及时晒干，可减少早稻草内二代虫蛹转化为三代的数量'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "control_chemical",
+    "claim": "适时偏早施药使下一代群体发生期推迟，适时偏迟施药使下一代发生期提早。防治质量好能大大减少当代和下一代虫口密度。但药剂防治面积过大、用药过多会破坏生态平衡。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '适时偏早施药，往往使下一代群体发生期推迟；反之，适时偏迟施药，能使下一代群体发生期提早...药剂防治面积过大，用药过多，能破坏生态平衡'",
+    "confidence": "high",
+    "notes": "遵循农药安全政策，不提供具体剂量"
+  },
+  {
+    "field": "variety_effects",
+    "claim": "籼稻比粳稻受害重。杂交水稻（秆粗叶阔、叶色嫩绿）卵块密度高、为害重。同一地区不同品种受害程度不同。",
+    "source_id": "SRC_0002",
+    "evidence": "原文: '一般籼稻比粳稻受害重；特别是杂交水稻，秆粗叶阔，叶色嫩绿，卵块密度高，为害重'",
+    "confidence": "high",
+    "notes": ""
+  }
+]

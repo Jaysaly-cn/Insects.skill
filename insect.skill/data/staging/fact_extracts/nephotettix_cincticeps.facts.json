@@ -1,0 +1,27 @@
+{
+  "pest_id": "nephotettix_cincticeps",
+  "extracted_at": "2026-05-08",
+  "extracted_by": "pest-card-builder",
+  "facts": [
+    {"field":"name_cn","claim":"黑尾叶蝉","source_id":"SRC_0002","evidence":"标题: 黑尾叶蝉和水稻矮缩病","confidence":"high"},
+    {"field":"name_latin","claim":"Nephotettix cincticeps (Uhler)","source_id":"SRC_0002","evidence":"黑尾叶蝉[Nephotettix cincticeps(Uhler)]","confidence":"high"},
+    {"field":"name_en","claim":null,"source_id":null,"evidence":null,"confidence":null,"notes":"Not in source."},
+    {"field":"major_hosts","claim":"水稻","source_id":"SRC_0002","evidence":"是水稻的一种常发性害虫","confidence":"high"},
+    {"field":"occasional_hosts","claim":"绿肥作物、春花作物","source_id":"SRC_0002","evidence":"在绿肥田和免耕春花田内越冬","confidence":"medium","notes":"越冬寄主，非主要取食寄主"},
+    {"field":"damaging_stages","claim":"成虫、若虫","source_id":"SRC_0002","evidence":"成、若虫群集为害","confidence":"high"},
+    {"field":"damaged_parts","claim":"叶片（刺吸）、全株（传毒）","source_id":"SRC_0002","evidence":"直接刺吸为害...传播水稻矮缩病","confidence":"high"},
+    {"field":"typical_symptoms","claim":"直接为害:叶片黄化、田边稻苗枯死。传毒为害:普通矮缩病(植株矮化、浓绿叶色、叶片僵直)、黄矮病(叶片黄化)、黄萎病(植株黄化萎蔫)","source_id":"SRC_0002","evidence":"群集为害往往造成田边稻苗枯死;由黑尾叶蝉传毒的水稻矮缩病...普通矮缩病、黄矮病和黄萎病三种","confidence":"high"},
+    {"field":"occurrence_regions","claim":"浙江省","source_id":"SRC_0002","evidence":"黑尾叶蝉在浙江省一年发生5～6代","confidence":"high"},
+    {"field":"occurrence_generations","claim":"一年5～6代","source_id":"SRC_0002","evidence":"在浙江省一年发生5～6代","confidence":"high"},
+    {"field":"overwintering","claim":"以三、四龄若虫和少量成虫在绿肥田和免耕春花田内越冬","source_id":"SRC_0002","evidence":"以三、四龄若虫和少量成虫在绿肥田和免耕春花田内越冬","confidence":"high"},
+    {"field":"peak_periods","claim":"6月中下旬第二代激增,7月下旬至8月上旬第三代盛发达高峰","source_id":"SRC_0002","evidence":"6月中、下旬第二代虫口激增，7月下旬至8月上旬第三代盛发期，田间虫口密度达到一年中的高峰","confidence":"high"},
+    {"field":"migration","claim":"一年两次迁飞:春季越冬代→早稻秧田/本田,夏季早稻→晚稻秧田/本田","source_id":"SRC_0002","evidence":"陆续迁飞到早稻秧田和早插本田，是一年中的第一次迁飞期...第二、三代成虫陆续迁入晚稻秧田和本田为害，是一年中的第二次迁飞期","confidence":"high"},
+    {"field":"diagnostic_features","claim":"若虫分5龄:1龄体长1-1.2mm黄白色无翅芽;2龄1.8-2mm黄白微绿无翅芽;3龄2-2.5mm淡黄绿头部倒八字褐斑翅芽略现;4龄2.5-2.8mm黄绿前翅芽达第1腹节;5龄3.5-4mm黄绿前翅芽达第3腹节","source_id":"SRC_0002","evidence":"附表1 黑尾叶蝉各龄若虫特征比较","confidence":"high"},
+    {"field":"natural_enemies","claim":"褐腰赤眼蜂、缨小蜂、头蝇、蜘蛛","source_id":"SRC_0002","evidence":"褐腰赤眼蜂、缨小蜂、头蝇、蜘蛛等天敌数量多少，是影响黑尾叶蝉发生消长的重要因子","confidence":"high"},
+    {"field":"control_thresholds","claim":"矮缩病流行区:秧田≥18成虫/m²,本田≥1成虫/丛,抽穗期≥10头/丛。非流行区:抽穗期≥15头/丛","source_id":"SRC_0002","evidence":"矮缩病流行地区，早、晚稻秧田平均每平方米有成虫18只以上...即须防治","confidence":"high"},
+    {"field":"similar_pests","claim":"其他叶蝉（电光叶蝉等）、稻飞虱","source_id":"SRC_0002","evidence":"结合调查其他叶蝉和稻虱","confidence":"low","notes":"Source mentions other leafhoppers/planthoppers but no detailed comparison."},
+    {"field":"climate_factors","claim":"最适气温28℃左右,适宜相对湿度75%-90%。夏秋季高温少雨有利大发生。冬季冰雪少、3-4月气温偏高加快发育。","source_id":"SRC_0002","evidence":"黑尾叶蝉发生的最适气温在28℃左右，适宜相对湿度在75%～90%。夏秋季高温少雨，有利黑尾叶蝉的大发生","confidence":"high"},
+    {"field":"taxonomy_order","claim":"半翅目 Hemiptera","source_id":"SRC_0002","evidence":null,"confidence":"medium","notes":"Not explicitly stated in source; inferred from leafhopper classification."},
+    {"field":"taxonomy_family","claim":"叶蝉科 Cicadellidae","source_id":"SRC_0002","evidence":null,"confidence":"medium","notes":"Not explicitly stated in source; inferred from leafhopper classification."}
+  ]
+}

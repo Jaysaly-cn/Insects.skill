@@ -1,0 +1,8 @@
+{"id":"T001","input":"水稻叶片发黄，叶背有小白虫","expected":{"domains":["insect"],"crop":"水稻","pest_seen":true}}
+{"id":"T002","input":"番茄叶子卷曲，还有黑色斑点","expected":{"domains":["disease","insect"],"crop":"番茄","damaged_parts":["leaf"]}}
+{"id":"T003","input":"玉米地里有很多杂草，主要是一种阔叶草","expected":{"domains":["weed"],"crop":"玉米"}}
+{"id":"T004","input":"打了除草剂后水稻叶片出现白色斑点","expected":{"domains":["pesticide_injury","disease"],"crop":"水稻","pesticide_history":"打了除草剂"}}
+{"id":"T005","input":"柑橘新叶发黄，叶脉还是绿色的，老叶正常","expected":{"domains":["nutrition"],"crop":"柑橘","symptoms":["新叶发黄","叶脉绿色"]}}
+{"id":"T006","input":"黄瓜叶片上有很多白色粉状物","expected":{"domains":["disease"],"crop":"黄瓜","symptoms":["白色粉状"]}}
+{"id":"T007","input":"水稻分蘖期，田里出现枯心苗","expected":{"domains":["insect"],"crop":"水稻","growth_stage":"分蘖期","symptoms":["枯心苗"]}}
+{"id":"T008","input":"小麦叶片发黄，有什么药可以治？","expected":{"domains":["disease","pesticide"],"crop":"小麦","task_type":"control_advice"}}

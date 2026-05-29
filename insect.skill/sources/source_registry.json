@@ -1,0 +1,24 @@
+[
+  {
+    "source_id": "SRC_0001",
+    "title": "中国农作物病虫害 第3版 — 第一单元 水稻病虫害 第29节 褐飞虱",
+    "source_type": "monograph",
+    "publisher": "中国农业出版社（推测）",
+    "url": null,
+    "accessed_at": "2026-05-08",
+    "license": "版权保护，内部研究使用",
+    "reliability": "high",
+    "notes": "正式出版的高等院校教材/专著。文件: shuidao1.md。涵盖褐飞虱的分布、形态、生活习性、发生规律、防治技术等完整内容。"
+  },
+  {
+    "source_id": "SRC_0002",
+    "title": "水稻害虫测报参考资料 — 黑尾叶蝉·水稻矮缩病·二化螟",
+    "source_type": "technical_manual",
+    "publisher": "浙江省农业相关部门（推测，基于内容中的地区数据）",
+    "url": null,
+    "accessed_at": "2026-05-08",
+    "license": "版权保护，内部研究使用",
+    "reliability": "medium",
+    "notes": "水稻害虫测报参考资料（浙江省）。文件: shuidao2.md（235KB）。涵盖害虫: ①黑尾叶蝉（含水稻矮缩病传播）、②二化螟、③稻秆潜蝇、④稻象甲。每章含预测依据、测报办法、预测经验及附参考数据。来源机构推测为浙江省植保系统，标注为中等可信。"
+  }
+]

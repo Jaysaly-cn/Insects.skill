@@ -1,0 +1,18 @@
+[
+  {
+    "source_id": "SRC_0001",
+    "title": "中国农作物病虫害 第3版 — 第29节 褐飞虱",
+    "source_type": "monograph",
+    "publisher": "中国农业出版社",
+    "reliability": "high",
+    "notes": "正式出版专著（来自 insect.skill 来源登记）"
+  },
+  {
+    "source_id": "SRC_0002",
+    "title": "水稻害虫测报参考资料 — 黑尾叶蝉·水稻矮缩病·二化螟",
+    "source_type": "technical_manual",
+    "publisher": "浙江省农业相关部门",
+    "reliability": "medium",
+    "notes": "技术手册（来自 insect.skill 来源登记）"
+  }
+]

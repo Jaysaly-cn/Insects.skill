@@ -1,0 +1,5 @@
+{"id":"M001","input":"番茄叶子发黄卷曲，还有很多小白虫，前几天刚打过药","expected":{"domains":["insect","disease","pesticide_injury"],"need_multi_skill":true}}
+{"id":"M002","input":"水稻叶鞘有褐色病斑，稻丛下部变黑，有虫在飞","expected":{"domains":["disease","insect"],"need_multi_skill":true}}
+{"id":"M003","input":"辣椒苗发黄矮小，叶片卷曲，根部有腐烂","expected":{"domains":["nutrition","disease","soil"],"need_multi_skill":true}}
+{"id":"M004","input":"打完农药三天后，玉米叶片出现黄色条斑，同时发现草地贪夜蛾","expected":{"domains":["pesticide_injury","disease","insect"],"need_multi_skill":true}}
+{"id":"M005","input":"柑橘老叶叶脉间黄化，新叶变小，土壤板结严重","expected":{"domains":["nutrition","soil"],"need_multi_skill":true}}

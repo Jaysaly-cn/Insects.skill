@@ -1,0 +1,2 @@
+{"id":"P001","input":"看看这张图片是什么虫？","image":"test_insect.jpg","expected":{"image_analysis_needed":true}}
+{"id":"P002","input":"水稻叶片上这些斑点是什么病？","image":"test_spot.jpg","expected":{"image_analysis_needed":true}}

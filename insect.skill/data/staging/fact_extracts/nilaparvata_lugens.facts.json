@@ -1,0 +1,370 @@
+[
+  {
+    "field": "name_cn",
+    "claim": "褐飞虱",
+    "source_id": "SRC_0001",
+    "evidence": "原文标题: '第29节 褐飞虱'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "name_latin",
+    "claim": "Nilaparvata lugens (Stål)",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '褐飞虱[Nilaparvata lugens(Stal)]'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "name_en",
+    "claim": "Brown Planthopper (BPH)",
+    "source_id": "SRC_0001",
+    "evidence": "国际通用英文名",
+    "confidence": "medium",
+    "notes": "原文中未直接给出英文名，为国际通用名"
+  },
+  {
+    "field": "aliases",
+    "claim": null,
+    "source_id": "SRC_0001",
+    "evidence": "",
+    "confidence": "high",
+    "notes": "Not in source."
+  },
+  {
+    "field": "taxonomy_order",
+    "claim": "半翅目 (Hemiptera)",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '属半翅目飞虱科'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "taxonomy_family",
+    "claim": "飞虱科 (Delphacidae)",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '属半翅目飞虱科'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "taxonomy_genus",
+    "claim": "Nilaparvata",
+    "source_id": "SRC_0001",
+    "evidence": "学名 Nilaparvata lugens",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "taxonomy_species",
+    "claim": "lugens",
+    "source_id": "SRC_0001",
+    "evidence": "学名 Nilaparvata lugens",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "major_hosts",
+    "claim": "水稻 (Oryza sativa)",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '褐飞虱为单食性害虫，只能在水稻和普通野生稻上取食和繁殖后代'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "occasional_hosts",
+    "claim": "普通野生稻 (Oryza rufipogon)",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '只能在水稻和普通野生稻上取食和繁殖后代'; '褐飞虱仅取食水稻和普通野生稻'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "damaging_stages",
+    "claim": "成虫和若虫均能为害",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '以成虫和若虫群集在稻株下部取食为害'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "damaged_parts",
+    "claim": "稻株下部茎秆和叶鞘；雌虫产卵刺破茎秆组织",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '群集在稻株下部取食为害'；'雌虫产卵时用产卵器刺破茎秆组织'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "typical_symptoms",
+    "claim": "吸食韧皮部汁液，留下褐色伤痕斑点；严重时稻株枯死倒伏（'冒顶''穿顶''虱烧'）；排泄蜜露污染稻株滋生烟霉，形成'黑秆'；传播齿叶矮缩病和水稻草状丛矮病",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '用刺吸式口器吸食水稻韧皮部汁液...留下褐色伤痕、斑点；严重时可引起稻株枯死倒伏，俗称"冒顶""穿顶""虱烧"...排泄蜜露污染稻株，滋生烟霉，严重时稻丛1/3以下部位变黑成"黑秆"...褐飞虱可传播齿叶矮缩病(ragged stunt)和水稻草状丛矮病(grass stunt)'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "morphology_egg",
+    "claim": "卵略弯曲呈香蕉形，长约1mm，宽约0.2mm。初产乳白色，后渐变为淡黄色，出现红色眼点。产于叶鞘和叶片组织内，数粒或十数粒单行排列成卵条。卵帽排列紧密，略露出卵痕，露出部分近似椭圆形，粗看似小方块。",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '卵略弯曲，呈香蕉形，长约1mm, 宽约0.2mm; 初产时乳白色，后渐变为淡黄色，并出现红色眼点。产于叶鞘和叶片组织内，数粒或十数粒单行排列，称为卵条。卵帽排列紧密，略露出卵痕，露出部分近似椭圆形，粗看似小方块。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "morphology_nymph_1st",
+    "claim": "体长约1.1mm，灰白色；无翅芽，中后胸后缘较平直；腹部第四节和部分第五节与背中线形成浅色T形斑纹",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '一龄：体长约1.1mm, 灰白色；无翅芽，中、后胸后缘较平直；腹部第四节和部分第五节与背中线形成一浅色的T形斑纹'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "morphology_nymph_2nd",
+    "claim": "体长约1.5mm，淡褐至黄褐色；翅芽初显，中后胸后缘两侧向后延伸成角状，前翅芽端刚好伸过后胸前缘；腹部背面仍有浅色T形斑，但浅色斑内暂显深色斑纹",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '二龄：体长约1.5mm, 淡褐至黄褐色：翅芽初显，中、后胸后缘两侧向后延伸成角状，前翅芽端刚好伸过后胸前缘。腹部背面仍有浅色T形斑，但浅色斑内暂显深色斑纹。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "morphology_nymph_3rd",
+    "claim": "体长约2.0mm，黄褐色至暗褐色；翅芽明显，中后胸两侧向后延伸成'八'字形翅芽，前翅芽伸达后胸中部稍前；腹部第三四节背上各出现1对白色蜡粉样浅色斑，与背中线和节间膜排列成'山'字形",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '三龄：体长约2.0mm, 黄褐色至暗褐色；翅芽明显，中、后胸两侧均向后延伸成"八"字形翅芽，其中前翅芽伸达后胸中部稍前：腹部第三、四节背上各出现1对白色蜡粉样的浅色斑，与背中线和节间膜排列成"山"字形。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "morphology_nymph_4th",
+    "claim": "体长约2.4mm，体色和斑纹同三龄；翅芽更明显，前翅芽端超过后胸中部，但明显不达后翅芽端部",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '四龄：体长约2.4mm, 体色和斑纹同三龄：翅芽更明显，前翅芽端超过后胸中部，但明显不达后翅芽端部。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "morphology_nymph_5th",
+    "claim": "体长约3.2mm，体色和斑纹同四龄；前翅芽端部接近或超过后翅芽端部；腹部第三四节背面后缘具蜡白色横条斑，是区别于短翅型成虫的显著特征",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '五龄：体长约3.2mm, 体色和斑纹同四龄；前翅芽端部接近或超过后翅芽端部。腹部第三、四节背面后缘具蜡白色横条斑、是区别于短翅型成虫的显著特征。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "morphology_pupa",
+    "claim": "不适用（半翅目渐变态，无蛹期）",
+    "source_id": "SRC_0001",
+    "evidence": "",
+    "confidence": "high",
+    "notes": "半翅目昆虫为渐变态，无蛹期"
+  },
+  {
+    "field": "morphology_adult_long_winged",
+    "claim": "长翅型成虫体长（连翅）雄3.6-4.2mm，雌4.2-4.8mm。体具浅深两种色型，黄褐或褐色至黑褐色，具明显油状光泽。前翅淡黄褐色，透明，端脉暗褐或黑褐色，翅斑明显黑褐色。头顶四方形，中长与基宽相等，端缘截形；中侧脊起自侧缘基部1/4处，彼此相向延伸，在头顶端缘愈合；Y形脊主干弱；基隔室凹陷深。额中长为中部最宽处的2.2-2.4倍，侧脊近乎直，以中部较宽，中脊在额的基端分叉。触角圆筒形，第一节长为端宽的2倍，第二节为第一节长的1.7倍。前胸背板侧脊不伸达后缘。后足基跗节外侧具1-4个侧刺，胫距具缘齿30-36枚。",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '长翅型成虫体长(连翅)雄为3.6~4.2mm, 雌为4.2~4.8mm...体具浅、深两种色型，黄褐或褐色至黑褐色，具明显的油状光泽。前翅淡黄褐色，透明，端脉暗褐或黑褐色，翅斑明显，黑褐色。头顶四方形...后足基跗节外侧具1~4个侧刺，胫距具缘齿30~36枚。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "morphology_adult_short_winged",
+    "claim": "短翅型体长雄2.4-2.8mm，雌2.8-3.2mm，前翅端常伸达腹部第五六节，后翅退化",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '短翅型体长雄为2.4～2.8mm, 雌为2.8～3.2mm, 前翅端常伸达腹部第五、六节，后翅退化。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "diagnostic_features",
+    "claim": "1. 后足胫距具缘齿30-36枚；2. 额（颜面中脊）中部不凹陷；3. 体具明显油状光泽；4. 前翅端区后缘侧面观无深色弧形斑；5. 雌虫第一载瓣片内拱凸无凹陷，呈圆弧形；6. 雄虫阳基侧突分叉",
+    "source_id": "SRC_0001",
+    "evidence": "原文表1-29-1中褐飞虱与拟褐飞虱、伪褐飞虱的识别特征对比",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "similar_pests",
+    "claim": "拟褐飞虱 [Nilaparvata bakeri (Muir)]：不为害水稻，以游草为寄主。区别：额中部凹陷，油状光泽强烈，前翅端区后缘有深色弧形斑，后足胫距小齿28-30枚。伪褐飞虱 [Nilaparvata muiri (China)]：不为害水稻，以秕谷草为寄主。区别：体连翅长通常小于4mm，无油状光泽，前翅端区后缘有深色弧形斑，后足胫距小齿18-20枚。",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '在灯下常见形态上与褐飞虱极为相似的两个种：拟褐飞虱[Nilaparvata bakeri(Muir)]和伪褐飞虱[Nilaparvata muiri(China)]...表1-29-1'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "occurrence_regions",
+    "claim": "国内冬春季仅局限于大陆南缘和台湾、海南岛等地越冬或发生，夏秋季除黑龙江、内蒙古、青海、新疆外其他各省份均有分布，北界达吉林通化、延边地区，西界为西藏墨脱。淮河以南稻区常年发生，暴发频繁。国外广泛分布于南亚、东南亚、太平洋岛屿、日本、朝鲜和澳大利亚。",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '国内在冬春季仅局限于大陆南缘和台湾、海南岛等地越冬或发生，夏秋季除黑龙江、内蒙古、青海、新疆外，其他各省份均有分布，北界达吉林通化、延边地区，西界为西藏墨脱...国外广泛分布于南亚、东南亚、太平洋岛屿等地区及日本、朝鲜和澳大利亚等国。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "occurrence_seasons",
+    "claim": "春夏季由南往北迁飞（3月中旬至8月初），秋季由北往南回迁（8月下旬至11月）。长江中下游地区'盛夏不热，晚秋不凉，夏秋多雨'的年份易大发生。",
+    "source_id": "SRC_0001",
+    "evidence": "原文迁飞规律和气候条件描述",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "occurrence_generations",
+    "claim": "1年1-12代，随纬度降低世代数递增；世代重叠严重。分为8个发生区：琼南12代区、琼雷10-11代区、两广南部8-9代区、南岭6-7代区、岭北5代区、沿江4代区、江淮3代区、淮北1-2代区。",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '褐飞虱在我国1年可发生1~12代...我国褐飞虱的发生一般分成8个区域。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "occurrence_overwintering",
+    "claim": "属喜温性昆虫，仅广东、广西、福建和云南南部以及台湾、海南等地有少量成虫、若虫或卵在再生稻、落谷苗上越冬。越冬北界大体在1月12℃等温线或冬季极端低温2-3℃的地方，大致在北回归线(23°26'N)附近，实际在21°-25°N间摆动。分为终年繁殖区(19°N以南)、少量越冬区(北回归线两侧，19°-25°N)、不能越冬区(25°N以北)。",
+    "source_id": "SRC_0001",
+    "evidence": "原文越冬部分",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "occurrence_migration",
+    "claim": "典型迁飞性害虫，每年随季风南北往返迁飞。春夏季5次北迁（3月中旬-8月初），秋季3次南迁（8月下旬-11月）。成虫迁出时晨暮双峰型（夏秋季日出前或日落后起飞），晚秋为日间单峰型。",
+    "source_id": "SRC_0001",
+    "evidence": "原文迁飞部分，详细描述了5次北迁和3次回迁的时间和路径",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "risk_level",
+    "claim": "我国主要水稻害虫，历史上有12次全国性大发生（1968-2007），年均发生面积1300万-2600万hm²，约占水稻种植面积50%，年均损失稻谷10亿-15亿kg",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '全国性大发生的年份有...共12次。20世纪80年代末以来，我国褐飞虱每年发生面积为1300万~2600万hm², 约占水稻种植面积的50%...年均损失稻谷仍达10亿~15亿kg'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "quarantine_status",
+    "claim": null,
+    "source_id": "SRC_0001",
+    "evidence": "",
+    "confidence": "high",
+    "notes": "Not in source."
+  },
+  {
+    "field": "natural_enemies_egg_parasitoids",
+    "claim": "稻虱缨小蜂 (Anagrus nilaparvatae) — 优势种，田间寄生率一般5%-15%，最高80%以上；拟稻虱缨小蜂 (Anagrus paranilaparvatae)；褐腰赤眼蜂 [Paracentrobia andoi (Ishii)] — 湖北汉阳平均寄生率15.1%",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '能寄生褐飞虱卵的寄生蜂主要有缨小蜂和赤眼蜂...稻虱缨小蜂...是褐飞虱卵期寄生蜂中的优势种...褐腰赤眼蜂...'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "natural_enemies_egg_predators",
+    "claim": "黑肩绿盲蝽 [Cyrtorhinus lividipennis (Reuter)] — 1头成虫每天取食10粒卵，1头高龄若虫日均取食7粒卵，一生可食飞虱卵200粒",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '黑肩绿盲蝽...1头成虫每天平均取食10粒卵，1头高龄若虫日均取食7粒卵，1头黑肩绿盲蝽一生可食飞虱卵200粒'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "natural_enemies_nymph_adult_parasitoids",
+    "claim": "稻虱红单节螯蜂 (Haplogonatopus apicalis)、黑双距螯蜂 (Gonatopus nigricans)；稻虱多索线虫 (Agamermis sp.)、稻虱两索线虫 (Amphimermis sp.) — 寄生率一般5%-20%，部分田块高达98%；白僵菌 (Beauveria sp.)",
+    "source_id": "SRC_0001",
+    "evidence": "原文天敌部分",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "natural_enemies_predators",
+    "claim": "蜘蛛（22科109属372种）、步行虫、宽黾蝽、瓢虫等。蜘蛛为最重要的天敌类群。",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '捕食成虫和若虫的天敌，常见的有蜘蛛、步行虫、宽黾蝽、瓢虫等，其中，蜘蛛无论在数量上还是在功能方面评价均是重要的天敌类群，有372种，隶属于22科109属。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "control_agricultural",
+    "claim": "因地制宜选用抗（耐）虫高产良种；合理肥水管理，及时搁田，平衡施肥，健身栽培；改善田间小气候环境",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '因地制宜地选用抗(耐)虫的高产良种...合理的肥水管理、健身栽培，提高稻田生态系统抵御褐飞虱灾变的能力。'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "control_biological",
+    "claim": "保护利用天敌（寄生蜂、黑肩绿盲蝽、蜘蛛等），减少对天敌的杀伤",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '保护天敌; 利用一切自然控制因素'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "control_chemical",
+    "claim": "选用对路低毒农药，不滥用乱用农药；注意轮换用药以延缓抗药性；褐飞虱对吡虫啉、噻嗪酮、噻虫嗪、吡蚜酮等已产生不同程度抗药性",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '2005年褐飞虱特大发生的一个重要原因就是其对吡虫啉产生了极高抗药性(79~750倍)...对噻嗪酮...迅速上升到了2011年多数种群达高抗性水平(40.7～119.7倍)...对吡蚜酮...上升到2011年的中等水平抗性(15.7~25.4倍)'",
+    "confidence": "high",
+    "notes": "具体农药剂量不给出，遵循农药安全政策"
+  },
+  {
+    "field": "host_plant_resistance",
+    "claim": "已鉴定水稻抗褐飞虱主效基因29个以上，其中Bph14和Bph18已克隆。含Bph1或bph2基因的抗性品种曾大面积应用（如汕优63）。但褐飞虱致害性已发生两次明显变化（1980s末对Bph1、1990s末对bph2抗性丧失）。2009-2011年调查显示85.9%的主栽品种为感虫或高感（7-9级）。",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '迄今已鉴定水稻抗褐飞虱主效基因29个以上...Bph14、Bph18两个基因已得到了克隆...对2009—2011年我国...354份生产上使用的水稻品种的抗性鉴定发现...85.9%均为7~9级的感虫或高感品种'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "pesticide_resistance",
+    "claim": "褐飞虱对吡虫啉抗性极高（2005年79-750倍，2011年安徽潜山达1936倍）；对噻嗪酮（2011年40.7-119.7倍）、噻虫嗪（2011年12.8-62.3倍）、吡蚜酮（2011年15.7-25.4倍）抗性明显上升；对烯啶虫胺、毒死蜱仍处于敏感到低水平抗性",
+    "source_id": "SRC_0001",
+    "evidence": "原文农药抗性监测部分",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "reproduction",
+    "claim": "雌虫羽化次日即可交尾，多数在羽化3天后交尾，一般一生只交尾1次。产卵前期短翅型2-3天，长翅型3-5天；产卵多在下午，高峰期持续6-10天。每头雌虫产卵200-700粒，多者超1000粒。卵产于叶鞘肥厚部分，91.2%-94.4%的卵产在自下而上第二至四叶鞘上。",
+    "source_id": "SRC_0001",
+    "evidence": "原文求偶、交配与产卵部分",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "development_duration",
+    "claim": "适温范围(20-30℃)内，卵期7-11天，若虫历期12-22天，温度越高历期越短；高于30℃时历期反而延长。长翅雌成虫寿命一般15-25天，短翅雌成虫寿命略长。",
+    "source_id": "SRC_0001",
+    "evidence": "原文历期部分及表1-29-2、表1-29-3",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "climate_factors",
+    "claim": "喜温湿，耐寒能力极弱，无明显休眠或滞育。卵和若虫发育起点温度10℃，低于17℃雌虫卵巢发育极慢。生长繁殖适温20-30℃，最适26-28℃，相对湿度80%以上。长江中下游'盛夏不热，晚秋不凉，夏秋多雨'的年份易大发生。",
+    "source_id": "SRC_0001",
+    "evidence": "原文气候部分",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "food_factors",
+    "claim": "仅取食水稻和普通野生稻。耕作制度、水稻品种和氮肥使用影响食料条件。过量偏施氮肥利于褐飞虱发生。水稻生长嫩绿营养好时，短翅型数量远超长翅型；接近成熟营养差时，长翅型超过短翅型。",
+    "source_id": "SRC_0001",
+    "evidence": "原文食料部分",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "field_monitoring",
+    "claim": "长翅型成虫有趋光性，20:00-23:00扑灯最多，对双色灯及金属卤化物灯趋性较强",
+    "source_id": "SRC_0001",
+    "evidence": "原文: '长翅型成虫有趋光性，以20:00~23:00扑灯最多，对双色灯及金属卤化物灯的趋性较强'",
+    "confidence": "high",
+    "notes": ""
+  },
+  {
+    "field": "behavior",
+    "claim": "成虫和若虫多聚集在稻丛下部离水面3-5cm处取食，夏季高温天气尤喜趋向基部。虫量过大或下部叶鞘枯死或气候异常时才爬至叶面或上部叶鞘。",
+    "source_id": "SRC_0001",
+    "evidence": "原文趋光性和喜阴性部分",
+    "confidence": "high",
+    "notes": ""
+  }
+]

@@ -1,0 +1,19 @@
+# Plant Protection Agent — 依赖清单
+# 安装: pip install -r requirements.txt
+
+# 核心
+langgraph>=0.4.0
+langchain-core>=0.3.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# 开发与测试
+pytest>=8.0.0
+pytest-asyncio>=0.24.0
+
+# API 服务（可选）
+fastapi>=0.115.0
+uvicorn>=0.32.0
+
+# 多模态视觉（可选）
+Pillow>=10.0.0

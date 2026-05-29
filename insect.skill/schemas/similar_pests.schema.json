@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://insect.skill/schemas/similar_pests.schema.json",
+  "title": "Similar Pest Differential Entry",
+  "description": "Schema for a record describing how to distinguish two similar-looking or similar-damaging pests.",
+  "type": "object",
+  "required": ["pest_id", "similar_to", "distinguishing_points"],
+  "properties": {
+    "pest_id": {
+      "type": "string",
+      "description": "The pest being compared (reference to pest_ontology.json)."
+    },
+    "similar_to": {
+      "type": "string",
+      "description": "The pest it resembles (reference to pest_ontology.json)."
+    },
+    "scope": {
+      "type": "string",
+      "enum": ["morphology", "damage_symptoms", "both"],
+      "description": "The aspect under which they are similar.",
+      "default": "both"
+    },
+    "distinguishing_points": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "feature": { "type": "string", "description": "The feature being compared (e.g. 'wing pattern', 'body size')." },
+          "pest_a_characteristic": { "type": "string" },
+          "pest_b_characteristic": { "type": "string" },
+          "reliability": {
+            "type": "string",
+            "enum": ["definitive", "strong", "suggestive"],
+            "description": "How reliably this feature distinguishes the two pests."
+          }
+        },
+        "required": ["feature", "pest_a_characteristic", "pest_b_characteristic"]
+      },
+      "description": "List of comparison points."
+    },
+    "confidence_notes": {
+      "type": "string",
+      "description": "Overall confidence in distinguishing these two pests, including caveats."
+    },
+    "references": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Citations or source document identifiers."
+    }
+  }
+}

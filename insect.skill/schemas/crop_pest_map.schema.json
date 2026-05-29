@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://insect.skill/schemas/crop_pest_map.schema.json",
+  "title": "Crop–Pest Mapping Entry",
+  "description": "Schema for a crop–pest association record, linking a crop to its common pests in a given region and growth stage.",
+  "type": "object",
+  "required": ["crop", "common_pests"],
+  "properties": {
+    "crop": {
+      "type": "string",
+      "description": "Common name of the crop (e.g. 'maize', 'rice', 'cotton')."
+    },
+    "crop_variety": {
+      "type": "string",
+      "description": "Optional crop variety or cultivar."
+    },
+    "region": {
+      "type": "string",
+      "description": "Geographic region where this mapping is applicable (e.g. 'North China Plain', 'Sichuan Basin')."
+    },
+    "growth_stage": {
+      "type": "string",
+      "description": "Crop phenological stage (e.g. 'seedling', 'tillering', 'booting', 'grain-filling')."
+    },
+    "common_pests": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "pest_id": { "type": "string", "description": "Reference to a pest in pest_ontology.json." },
+          "frequency": {
+            "type": "string",
+            "enum": ["rare", "occasional", "common", "major"],
+            "description": "Frequency of occurrence."
+          },
+          "typical_damage": { "type": "string" }
+        },
+        "required": ["pest_id"]
+      },
+      "description": "List of pests commonly found on this crop under the specified conditions."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional notes or caveats."
+    },
+    "references": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Citations or source document identifiers."
+    }
+  }
+}

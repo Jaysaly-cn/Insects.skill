@@ -1,0 +1,103 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://insect.skill/schemas/pest_ontology.schema.json",
+  "title": "Pest Ontology Entry",
+  "description": "Schema for a single pest ontology record in the agricultural insect skill knowledge base.",
+  "type": "object",
+  "required": ["pest_id", "name_cn"],
+  "properties": {
+    "pest_id": {
+      "type": "string",
+      "description": "Unique identifier for the pest (e.g. 'pest-001')."
+    },
+    "name_cn": {
+      "type": "string",
+      "description": "Chinese common name."
+    },
+    "name_en": {
+      "type": "string",
+      "description": "English common name."
+    },
+    "name_latin": {
+      "type": "string",
+      "description": "Latin scientific name (Genus species Author, Year)."
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Alternative names, colloquial names, or historical names."
+    },
+    "taxonomy": {
+      "type": "object",
+      "description": "Taxonomic classification.",
+      "properties": {
+        "order": { "type": "string" },
+        "family": { "type": "string" },
+        "genus": { "type": "string" },
+        "species": { "type": "string" }
+      }
+    },
+    "major_hosts": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Primary crop hosts (common crop names)."
+    },
+    "damaging_stages": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["egg", "larva", "nymph", "pupa", "adult", "all"]
+      },
+      "description": "Life stages that cause crop damage."
+    },
+    "damaged_parts": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["leaf", "stem", "root", "fruit", "flower", "seed", "seedling", "whole_plant"]
+      },
+      "description": "Plant parts typically damaged."
+    },
+    "typical_symptoms": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Typical damage symptoms observed in the field."
+    },
+    "diagnostic_features": {
+      "type": "object",
+      "description": "Key morphological or behavioural features for identification.",
+      "properties": {
+        "body_length_mm": {
+          "type": "object",
+          "properties": {
+            "min": { "type": "number" },
+            "max": { "type": "number" }
+          }
+        },
+        "body_color": { "type": "string" },
+        "body_shape": { "type": "string" },
+        "head_features": { "type": "string" },
+        "antennae": { "type": "string" },
+        "wings": { "type": "string" },
+        "legs": { "type": "string" },
+        "surface_texture": { "type": "string" },
+        "distinctive_marks": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "similar_pests": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "IDs of pests that look similar or cause similar damage."
+    },
+    "risk_level": {
+      "type": "string",
+      "enum": ["low", "medium", "high", "critical"],
+      "description": "Overall risk level for agricultural production."
+    },
+    "references": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Citations or source document identifiers."
+    }
+  }
+}

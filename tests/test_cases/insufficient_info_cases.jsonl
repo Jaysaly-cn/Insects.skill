@@ -1,0 +1,3 @@
+{"id":"I001","input":"我的菜生病了，怎么办？","expected":{"critical_missing":["crop","symptoms"],"should_followup":true}}
+{"id":"I002","input":"叶片上有虫子","expected":{"critical_missing":["crop"],"should_followup":true}}
+{"id":"I003","input":"水稻有病虫害","expected":{"critical_missing":["symptoms"],"should_followup":true}}
