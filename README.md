@@ -22,7 +22,7 @@
 | **LLM 驱动** | DeepSeek API + Mock 降级 | ✅ API Key 配置即用 |
 | **可扩展 Skill** | 8 个子 Skill 统一协议 | ✅ 独立开发/注册 |
 
-![image]([graphical abstract.png](https://github.com/Jaysaly-cn/Insects.skill/blob/main/graphical%20abstract.png))
+![image](https://github.com/Jaysaly-cn/Insects.skill/blob/main/graphical%20abstract.png)
 ## 子 Skill 一览
 
 | Skill | 领域 | 说明 |
